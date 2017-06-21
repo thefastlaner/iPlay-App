@@ -1,3 +1,3 @@
-Iplay
-This is an online music streaming site
+#Iplay
+This is an online music streaming site.
 Its a work in progress
